@@ -1,6 +1,6 @@
 - params:
     git:
-      repoName: frogbot-repro
+      repoName: yarn-test
       branches:
         - main
     scan:
