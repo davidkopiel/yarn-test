@@ -1,0 +1,11 @@
+- params:
+    git:
+      repoName: frogbot-repro
+      branches:
+        - main
+    scan:
+      failOnSecurityIssues: false
+      projects:
+        - installCommand: "yarn install"
+          workingDirs:
+            - "."

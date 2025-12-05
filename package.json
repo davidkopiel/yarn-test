@@ -1,0 +1,8 @@
+{
+  "name": "frogbot-repro",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@mytest/secret-lib": "1.0.0"
+  }
+}
