@@ -2,6 +2,7 @@
   "name": "frogbot-repro",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "yarn@3.6.4"
   "dependencies": {
     "@mytest/secret-lib": "1.0.0"
   }
